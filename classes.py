@@ -3,6 +3,7 @@
 import pyodbc
 from db import connect, create_table, get_data, get_all_data, update_data, insert_data
 
+# cambio en linea seis de Leguizamon
 
 # En este archivo definimos las clases asociadas a la solución del problema
 
