@@ -3,7 +3,7 @@
 import pyodbc
 from db import connect, create_table, get_data, get_all_data, update_data, insert_data
 
-# Creamos nuestra clase agenda agenda agenda
+# Creamos nuestra clase agenda
 class Agenda:
     # Iniciamos nuestra clase
     def __init__(self):
