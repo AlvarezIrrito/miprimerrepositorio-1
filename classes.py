@@ -31,7 +31,7 @@ class Agenda:
 
     # Menu del programa
     def menu(self):
-        print()
+        print("Ah no hermano, consiguete tu codigo")
         menu = [
             ['Agenda Personal'],
             ['1. Añadir Contacto', "anadir"],
