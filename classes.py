@@ -1,6 +1,6 @@
 
 #Probando
-=======
+#=======
 
 #Hola123
 # Agenda con base de datos Pymysql
@@ -12,8 +12,8 @@ import pyodbc
 from db import connect, create_table, get_data, get_all_data, update_data, insert_data
 
 
-#HOLA MAMA ESTOY EN LA TELE
-=======
+#HOLA MAMA ESTOY EN LA TELE DEL INFORMATORIO
+#=======
 
 #HOLA PROBANDO CAMBIOS EN ESTE REPOSITORIO
 
